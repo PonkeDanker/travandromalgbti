@@ -10,7 +10,7 @@ title = "Get Information and Support"
 
 We have a variety of empowering resources, helpful guides, useful information and links to other organisations & more support for you. 
 
-<div class="narrow-side-column">
+<div class="narrow-side-column" style="margin-bottom: 3rem;">
     
 And if you like to talk to us personally, give our Key Worker a ring or write her a message.
    
