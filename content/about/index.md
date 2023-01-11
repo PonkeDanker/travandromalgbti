@@ -34,7 +34,12 @@ The **Membership** consists of
 
 If you are interested in becoming a member, please [write us an email](mailto:ponke.danker@exchangehouse.ie).
 
-If you are an individual not affiliated with the LGBTI+ Traveller & Roma community, the Traveller or Roma communities or an organisation, but you want to support us: **Become an Ally** and [find out more](/what-we-do).
+  <div class="narrow-side-column">
+    <p>
+      If you are an individual not affiliated with the LGBTI+ Traveller & Roma community, the Traveller or Roma communities or an organisation, but you want to support us: <b>Become an Ally</b> and find out more.
+    </p>
+    <div><a class="button button--blue" href="/what-we-do">Learn more</a></div>
+  </div>
 
 ## Meet our Key Worker
 
