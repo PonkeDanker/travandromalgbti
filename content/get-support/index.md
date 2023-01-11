@@ -18,51 +18,57 @@ And if you like to talk to us personally, give our Key Worker a ring or write he
 </div>
 
 <ul class="card-list">
-{{ card(
+{% card(
 	image="support-lines.png",
 	title="Find Help & Support",
-	text="Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information.",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-1-find-help"
 	color="purple"
-) }}
+) %}
+Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information.
+{% end %}
 
-{{ card(
+{% card(
 	image="guide-support-coming-out.jpg",
 	title="Advice & Guides",
-	text="COMING SOON - We are currently working with a group of LGBTI+ Traveller & Roma to creage helpful guides",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-2-advice-guides"
 	color="yellow"
-) }}
+) %}
+COMING SOON
 
-{{ card(
+We are currently working with a group of LGBTI+ Traveller & Roma to creage helpful guides
+{% end %}
+
+{% card(
 	image="2022-calendar.jpg",
 	title="Resources",
-	text="Download our resources and find support, share them with your community and celebrate.",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-3-resources"
 	color="purple"
-) }}
+) %}
+Download our resources and find support, share them with your community and celebrate.
+{% end %}
 
-{{ card(
+{% card(
 	image="eileen-family-sq.jpg",
 	title="For Parents & Carers",
-	text="If you are a parent ot carer of an LGBTI+ Traveller or ROma or you think your child might be LGBTI+, you find some advice & support here.",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-4-for-parents"
 	color="yellow"
-) }}
+) %}
+If you are a parent ot carer of an LGBTI+ Traveller or ROma or you think your child might be LGBTI+, you find some advice & support here.
+{% end %}
 
-{{ card(
+{% card(
 	image="report-picture-square.jpeg",
 	title="Peer-Research Report",
-	text="The Peer-Research *Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma* was just published.",
 	linkTitle="Find out more",
 	linkTarget="/what-we-do/research"
 	color="purple"
-) }}
-
+) %}
+The Peer-Research *Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma* was just published.
+{% end %}
 </ul>
 
 ## Find Help & Support

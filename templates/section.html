@@ -4,10 +4,11 @@
 <h1>{{ section.title }}</h1>
 <ul class="card-list">
   {% for post in section.pages %}
+    {% set text = post.extra.summary | markdown | safe %}
     {{ macros::card(
       image=post.extra.image,
       title=post.title,
-      text=post.extra.summary,
+      text=text,
       linkTitle="Read More",
       linkTarget=post.permalink,
       color="blue"

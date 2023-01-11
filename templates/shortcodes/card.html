@@ -1,4 +1,5 @@
 {% import "macros.html" as macros %}
+{% set text = body | markdown | safe %}
 {{macros::card(
 	image=image,
 	title=title,
