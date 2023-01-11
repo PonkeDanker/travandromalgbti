@@ -12,6 +12,8 @@ title = "About Us"
 
 The National Action Group for LGBTI+ Traveller & Roma Rights is a collective that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and within Traveller & Roma and LGBTI+ organisations and services.
 
+<div class="color-box color-box--red">
+
 ## What is *intersectionality*
 
 We inform about and promote awareness for the intersectional experience of LGBTI+ Traveller & Roma. *Intersectionality* refers to the fact that multiple affiliation with marginalised groups lead to an experience of overlapping and reinforcing discrimination and prejudice. 
@@ -19,6 +21,8 @@ We inform about and promote awareness for the intersectional experience of LGBTI
 LGBTI+ Travellers and Roma often face homophobia, anti-Traveller and anti-Roma racism and a combination of the two in their own communities, the LGBTI+ community & the wider society.
 
 For example, an LGBTI+ Traveller or Roma may encounter racism by the LGBTI+ community & may encounter exclusion and prejudice by the Traveller or Roma community for being LGBTI+ & be discrimintaed against by the wider society for both simultaneously.
+
+</div>
 
 ## Governance & Membership
 
@@ -34,12 +38,12 @@ The **Membership** consists of
 
 If you are interested in becoming a member, please [write us an email](mailto:ponke.danker@exchangehouse.ie).
 
-  <div class="narrow-side-column">
-    <p>
-      If you are an individual not affiliated with the LGBTI+ Traveller & Roma community, the Traveller or Roma communities or an organisation, but you want to support us: <b>Become an Ally</b> and find out more.
-    </p>
-    <div><a class="button button--blue" href="/what-we-do">Learn more</a></div>
-  </div>
+<div class="narrow-side-column">
+    
+If you are an individual not affiliated with the LGBTI+ Traveller & Roma community, the Traveller or Roma communities or an organisation, but you want to support us: **Become an Ally** and find out more.
+   
+<div><a class="button button--blue" href="/what-we-do">Learn more</a></div>
+</div>
 
 ## Meet our Key Worker
 
