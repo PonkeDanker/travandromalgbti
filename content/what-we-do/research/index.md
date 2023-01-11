@@ -21,6 +21,7 @@ The report "Unveiling Inequality – The Experiences of LGBTI+ Traveller and Rom
 	text="Read the 2022 Report: Unveiling Inequality - Experiences of LGBTI+ Travellers & Roma",
 	linkTitle="Download",
 	linkTarget="/LGBTI-Traveller-and-Roma-Peer-Research-Report.pdf"
+	color="purple"
 ) }}
 
 {{ card(
@@ -29,6 +30,7 @@ The report "Unveiling Inequality – The Experiences of LGBTI+ Traveller and Rom
 	text="Read the executive summary.",
 	linkTitle="Download",
 	linkTarget="/LGBTI-Traveller-and-Roma-Peer-Research-Executive-Summary.pdf"
+	color="purple"
 ) }}
 
 {{ card(
@@ -37,6 +39,7 @@ The report "Unveiling Inequality – The Experiences of LGBTI+ Traveller and Rom
 	text="Read the press release about the reasearch launch.",
 	linkTitle="Download",
 	linkTarget="/LGBTI-Traveller-and-Roma-Peer-Research-Press-Release.pdf"
+	color="purple"
 ) }}
 </ul>
 
