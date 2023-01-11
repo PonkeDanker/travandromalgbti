@@ -16,41 +16,45 @@ Or if you want to talk to us personally, give our Key Worker a ring or write her
 </div>
 
 <ul class="card-list">
-{{ card(
+{% card(
 	image="support-lines.png",
 	title="Provide Information & Support",
-	text="We provide information, sign-posting and support to LGBTI+ Travellers & Roma, their families, organisations & individuals.",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-1-info"
 	color="green"
-) }}
+) %}
+We provide information, sign-posting and support to LGBTI+ Travellers & Roma, their families, organisations & individuals.
+{% end %}
 
-{{ card(
+{% card(
 	image="report-picture-square.jpeg",
 	title="Research",
-	text="We undertake research with the goal to unveil the experiences of LGBTI+ Travellers and ROma, with the aom of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-2-research"
 	color="orange"
-) }}
+) %}
+We undertake research with the goal to unveil the experiences of LGBTI+ Travellers and ROma, with the aom of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.
+{% end %}
 
-{{ card(
+{% card(
 	image="dublin-pride.jpg",
 	title="Prides",
-	text="We participate in the annual Dublin Pride PArade & many more annual Pride events and celebrations throughout the country.",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-3-prides"
 	color="green"
-) }}
+) %}
+We participate in the annual Dublin Pride PArade & many more annual Pride events and celebrations throughout the country.
+{% end %}
 
-{{ card(
+{% card(
 	image="protest-sign.jpg",
 	title="Get involved",
-	text="You want to get involved in our work? We would be delighted to hear from you.",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-4-get-involved"
 	color="green"
-) }}
+) %}
+You want to get involved in our work? We would be delighted to hear from you.
+{% end %}
 </ul>
 
 ## Information and Support
@@ -76,7 +80,7 @@ LGBTI+ Travellers & Roma, our members & allies walk together to celebrate Commun
 
 See our [Pride gallery](/what-we-do/prides) for past parades. 
 
-{{ image(path="/dublin-pride-1.jpg", width=400 ) }}
+{{ image(path="/dublin-pride-1.jpg", width=400 ) %}
 
 ##### National Prides
 

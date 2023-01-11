@@ -9,7 +9,7 @@
 	<img src="{{ resizedImage.url }}" />
   <div class="card__text_wrapper">
     <span class="card__title">{{ title }}</span>
-    {{ text | markdown | safe }}
+    {{ text | safe }}
   </div>
   <a class="card__button button button--white" href="{{ linkTarget }}" >{{ linkTitle }}</a >
 </li>
