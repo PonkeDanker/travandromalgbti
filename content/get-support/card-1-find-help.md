@@ -15,7 +15,7 @@ Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ orga
 {% horizontalCard(
 	image="/traveller-counselling-sercvice.bmp",
 	linkTitle="Traveller Counselling Service",
-	linkTarget="https://travellercounselling.ie/"
+	linkTarget="https://travellercounselling.ie/",
 	color="green",
 ) %}
 Coming Soon
