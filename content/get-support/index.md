@@ -8,9 +8,62 @@ title = "Get Information and Support"
 
 # Get Information & Support
 
-##### We have a variety of empowering resources, helpful guides, useful information and links to other organisations & more support for you. 
+We have a variety of empowering resources, helpful guides, useful information and links to other organisations & more support for you. 
 
-##### And if you like to talk to us personally, give our Key Worker [a ring or write her a message](/contact).
+<div class="narrow-side-column">
+    
+And if you like to talk to us personally, give our Key Worker a ring or write her a message.
+   
+<div><a class="button button--blue" href="/contact">Contact</a></div>
+<div>
+
+<ul class="card-list">
+{{ card(
+	image="support-lines.png",
+	title="Find Help & Support",
+	text="Fnd support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information.",
+	linkTitle="Find out more",
+	linkTarget="/get-support/card-1-find-help"
+	color="purple"
+) }}
+
+{{ card(
+	image="guide-support-coming-out.jpg",
+	title="Advice & Guides",
+	text="COMING SOON - We are currently working with a group of LGBTI+ Traveller & Roma",
+	linkTitle="Find out more",
+	linkTarget="/get-support/card-2-advice-guides"
+	color="yellow"
+) }}
+
+{{ card(
+	image="2022-calendar.jpg",
+	title="Resources",
+	text="Download our resources and find support, share them with your community and celebrate.",
+	linkTitle="Find out more",
+	linkTarget="/get-support/card-3-resources"
+	color="purple"
+) }}
+
+{{ card(
+	image="eileen-family-sq.jpg",
+	title="For Parents & Carers",
+	text="If you are a parent ot carer of an LGBTI+ Traveller or ROma or you think your child might be LGBTI+, you find some advice & support here.",
+	linkTitle="Find out more",
+	linkTarget="/get-support/card-4-for-parents"
+	color="yellow"
+) }}
+
+{{ card(
+	image="report-picture-square.jpg",
+	title="Peer-Research Report",
+	text="The Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma" was just published.",
+	linkTitle="Find out more",
+	linkTarget="/what-we-do/research"
+	color="purple"
+) }}
+
+</ul>
 
 ## Find Help & Support
 
