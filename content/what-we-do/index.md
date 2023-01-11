@@ -26,7 +26,7 @@ Or if you want to talk to us personally, give our Key Worker a ring or write her
 ) }}
 
 {{ card(
-	image="report-picture-square.jpg",
+	image="report-picture-square.jpeg",
 	title="Research",
 	text="We undertake research with the goal to unveil the experiences of LGBTI+ Travellers and ROma, with the aom of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.",
 	linkTitle="Find out more",
@@ -35,7 +35,7 @@ Or if you want to talk to us personally, give our Key Worker a ring or write her
 ) }}
 
 {{ card(
-	image="title-image.jpg",
+	image="dublin-pride.jpg",
 	title="Prides",
 	text="We participate in the annual Dublin Pride PArade & many more annual Pride events and celebrations throughout the country.",
 	linkTitle="Find out more",
