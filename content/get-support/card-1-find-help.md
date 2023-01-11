@@ -6,21 +6,27 @@ title = "Find Help & Support"
 
 # Find Help & Support
 
-Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information...
-
-{{ image(path="/support-lines.png")}}
-
-...or contact the [Traveller Counselling Service](https://travellercounselling.ie/) or [Exchange House Ireland](https://www.exchangehouse.ie/services.php) and make an appointment with a counsellor!
-
-<img src="/traveller-counselling-sercvice.bmp" width=200><img src="/exchangehouse-logo.jpg" width=500>
+Talk to someone at an LGBTI+ Traveller & Roma friendly LGBTI+ service who offers a non-judgmental ear to you and provides information.
 
 {% horizontalCard(
-	image="/traveller-counselling-sercvice.bmp",
-	color="green",
-	linkTitle="Traveller Counselling Service",
-	linkTarget="https://travellercounselling.ie/"
+	image="/support-lines.png",
+	color="purple",
+	linkTitle="Go to LGBT Ireland",
+	linkTarget="https://lgbt.ie/lgbt-helpline-opening-hours/"
 ) %}
-Coming Soon
+LGBT Ireland offers a **free support service**.
+Call **1800 929 539**.
 
-...
+They also offer an **Online Chat Support & monthly Peer Support Groups**.
+{% end %}
+
+{% horizontalCard(
+	image="/transgender-support.bmp",
+	color="purple",
+	linkTitle="Go to LGBT Ireland",
+	linkTarget="https://lgbt.ie/lgbt-helpline-opening-hours/"
+) %}
+LGBT Ireland & the Transgender Equality Network Ireland (TENI) also offer a **Transgender Family Support Line** on Sunday Evenings and Tuesday Mornings.
+
+Call **01 907 3703**.
 {% end %}
