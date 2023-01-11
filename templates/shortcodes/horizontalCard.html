@@ -1,0 +1,8 @@
+{% import "macros.html" as macros %}
+  <div class="horizontal-card">
+    {{macros::image(path=image, width=300)}}
+		<div class="horizontal-card__text_wrapper" style="background-color: var(--pale-{{ color }}-color);">
+			{{ body | markdown | safe }}
+			<a class="horizontal-card__button button button--white" href="{{ linkTarget }}" >{{ linkTitle }}</a >
+		</div>
+	</div>
