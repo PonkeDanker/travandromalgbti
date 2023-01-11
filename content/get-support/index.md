@@ -15,13 +15,13 @@ We have a variety of empowering resources, helpful guides, useful information an
 And if you like to talk to us personally, give our Key Worker a ring or write her a message.
    
 <div><a class="button button--blue" href="/contact">Contact</a></div>
-<div>
+</div>
 
 <ul class="card-list">
 {{ card(
 	image="support-lines.png",
 	title="Find Help & Support",
-	text="Fnd support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information.",
+	text="Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information.",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-1-find-help"
 	color="purple"
@@ -30,7 +30,7 @@ And if you like to talk to us personally, give our Key Worker a ring or write he
 {{ card(
 	image="guide-support-coming-out.jpg",
 	title="Advice & Guides",
-	text="COMING SOON - We are currently working with a group of LGBTI+ Traveller & Roma",
+	text="COMING SOON - We are currently working with a group of LGBTI+ Traveller & Roma to creage helpful guides",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-2-advice-guides"
 	color="yellow"
