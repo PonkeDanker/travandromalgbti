@@ -12,11 +12,13 @@ Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ orga
 
 ...or contact the [Traveller Counselling Service](https://travellercounselling.ie/) or [Exchange House Ireland](https://www.exchangehouse.ie/services.php) and make an appointment with a counsellor!
 
+<img src="/traveller-counselling-sercvice.bmp" width=200><img src="/exchangehouse-logo.jpg" width=500>
+
 {% horizontalCard(
 	image="/traveller-counselling-sercvice.bmp",
-	linkTitle="Traveller Counselling Service",
-	linkTarget="https://travellercounselling.ie/",
 	color="green",
+	linkTitle="Traveller Counselling Service",
+	linkTarget="https://travellercounselling.ie/"
 ) %}
 Coming Soon
 
