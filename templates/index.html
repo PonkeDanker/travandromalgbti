@@ -39,15 +39,14 @@
   <ul class="card-list">
     {% for post in news.pages | slice(end=3)%}
     <li class="card">
-      <a href="{{ post.permalink }}">
-        {{macros::image(path=post.extra.image, width=300)}}
-        <div class="card__text_wrapper">
-          <span class="card__title">{{ post.title }}</span>
-          <p class="card__summary">
-            {{ post.extra.summary | markdown | safe }}
-          </p>
-        </div>
-      </a>
+      {{macros::image(path=post.extra.image, width=300)}}
+      <div class="card__text_wrapper">
+        <span class="card__title">{{ post.title }}</span>
+        <p class="card__summary">
+          {{ post.extra.summary | markdown | safe }}
+        </p>
+        <a class="button button--white" href="{{ post.permalink }}">Read More</a>
+      </div>
     </li>
     {% endfor %}
   </ul>

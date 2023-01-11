@@ -15,14 +15,6 @@
     max-width: 100%;
   }
   margin-bottom: 2rem;
-  a,
-	a:hover {
-    color: var(--default-color);
-  }
-	border: 2px solid var(--white-color);
-	&:hover {
-		border-color: var(--accent-color);
-	}
 }
 
 .card__text_wrapper {
@@ -32,4 +24,8 @@
 .card__title {
   font-size: var(--step-1);
   font-weight: bold;
+}
+
+.card__button {
+  margin-top: auto;
 }
