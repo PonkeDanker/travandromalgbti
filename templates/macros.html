@@ -2,3 +2,15 @@
 {% set image = resize_image(path=path, width=width, op="fit_width") %}
 <img src="{{ image.url }}" />
 {% endmacro input %}
+
+{% macro card(image, title, text, linkTitle, linkTarget, color='blue') %}
+<li class="card" style="background-color: var(--pale-{{ color }}-color);">
+	{% set resizedImage = resize_image(path=image, width=300, op="fit_width") %}
+	<img src="{{ resizedImage.url }}" />
+  <div class="card__text_wrapper">
+    <span class="card__title">{{ title }}</span>
+    {{ text | markdown | safe }}
+    <a class="card__button button button--white" href="{{ linkTarget }}" >{{ linkTitle }}</a >
+  </div>
+</li>
+{% endmacro card %}
