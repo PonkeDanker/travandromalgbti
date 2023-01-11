@@ -38,16 +38,14 @@
   {% set news = get_section(path="news/_index.md") %}
   <ul class="card-list">
     {% for post in news.pages | slice(end=3)%}
-    <li class="card">
-      {{macros::image(path=post.extra.image, width=300)}}
-      <div class="card__text_wrapper">
-        <span class="card__title">{{ post.title }}</span>
-        <p class="card__summary">
-          {{ post.extra.summary | markdown | safe }}
-        </p>
-        <a class="button button--white" href="{{ post.permalink }}">Read More</a>
-      </div>
-    </li>
+      {{ macros::card(
+        image=post.extra.image,
+        title=post.title,
+        text=post.extra.summary,
+        linkTitle="Read More",
+        linkTarget=post.permalink,
+        color="blue"
+      ) }}
     {% endfor %}
   </ul>
 
