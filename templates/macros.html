@@ -10,7 +10,7 @@
   <div class="card__text_wrapper">
     <span class="card__title">{{ title }}</span>
     {{ text | markdown | safe }}
-    <a class="card__button button button--white" href="{{ linkTarget }}" >{{ linkTitle }}</a >
   </div>
+  <a class="card__button button button--white" href="{{ linkTarget }}" >{{ linkTitle }}</a >
 </li>
 {% endmacro card %}
