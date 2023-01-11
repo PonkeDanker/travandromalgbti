@@ -6,7 +6,7 @@
   justify-content: center;
   flex-wrap: wrap;
   margin: 0;
-	gap: 1.5rem;
+  gap: 1.5rem;
 }
 
 .card {
@@ -35,4 +35,31 @@
 .card__button {
   margin-top: auto;
   align-self: center;
+}
+
+.horizontal-card {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  display: grid;
+  img {
+    justify-self: center;
+  }
+  @media screen and (min-width: 60ch) {
+    grid-template-columns: minmax(auto, 300px) 1fr;
+    grid-template-rows: 300px;
+    align-items: center;
+  }
+}
+
+.horizontal-card__text_wrapper {
+  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.horizontal-card__button {
+  align-self: center;
+  margin-top: auto;
+  margin-bottom: 1rem;
 }
