@@ -55,9 +55,9 @@ And if you like to talk to us personally, give our Key Worker a ring or write he
 ) }}
 
 {{ card(
-	image="report-picture-square.jpg",
+	image="report-picture-square.jpeg",
 	title="Peer-Research Report",
-	text="The Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma" was just published.",
+	text="The Peer-Research *Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma* was just published.",
 	linkTitle="Find out more",
 	linkTarget="/what-we-do/research"
 	color="purple"
