@@ -72,7 +72,7 @@ The study is gratefully supported by LGBT Ireland and the Irish Human Rights and
 
 <div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
-<div class="color-box color-box--blue">
+<div class="color-box color-box--green">
 
 <p class="quote">
 « It’s about valuing people differently within our community, rather than coming down on anyone for their sexuality and gender. Accepting people for who they are, is the only way to be, as there is really no right way to be a Traveller. Live and let live! »
