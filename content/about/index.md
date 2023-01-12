@@ -2,19 +2,19 @@
 title = "About Us"
 +++
 
-{{ image(path="/travellers-can-be.png" )}}
+{{ image(path="/title-image-about-page.png" )}}
 
 [Go back](/home)
 
 # About us
 
-## Our Vision and Mission
+The National Action Group for LGBTI+ Traveller & Roma Rights is a collective that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and within Traveller & Roma and LGBTI+ organisations and services. 
 
-The National Action Group for LGBTI+ Traveller & Roma Rights is a collective that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and within Traveller & Roma and LGBTI+ organisations and services.
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
 <div class="color-box color-box--red">
 
-## What is *intersectionality*
+# What is *intersectionality*
 
 We inform about and promote awareness for the intersectional experience of LGBTI+ Traveller & Roma. *Intersectionality* refers to the fact that multiple affiliation with marginalised groups lead to an experience of overlapping and reinforcing discrimination and prejudice. 
 
@@ -24,9 +24,11 @@ For example, an LGBTI+ Traveller or Roma may encounter racism by the LGBTI+ comm
 
 </div>
 
-## Governance & Membership
+# Governance & Membership
 
 The **Steering Committee** consists of representatives from the LGBTI+ Traveller & Roma community, the Traveller & Roma communities, national, regional and local Traveller & Roma organisations and services and LGBTI+ organisations and services.
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
 The **Membership** consists of 
 - LGBTI+ Traveller & Roma individuals
@@ -36,27 +38,44 @@ The **Membership** consists of
 - LGBTI+ organisations and services
 - Other Human Rights related organisations and services.
 
-If you are interested in becoming a member, please [write us an email](mailto:ponke.danker@exchangehouse.ie).
+<div class="narrow-side-column">
+
+If you are interested in **becoming a member**, please write us an email.
+
+<div><a class="button button--blue" href="/mailto:info@travandromalgbti.ie">Email</a></div>
+</div>
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
 <div class="narrow-side-column">
     
-If you are an individual not affiliated with the LGBTI+ Traveller & Roma community, the Traveller or Roma communities or an organisation, but you want to support us: **Become an Ally** and find out more.
+If you are an individual not affiliated with the LGBTI+ Traveller & Roma community, the Traveller or Roma communities or an organisation, but you want to support us: **Become an ally** and find out more.
    
-<div><a class="button button--blue" href="/what-we-do">Learn more</a></div>
+<div><a class="button button--blue" href="/what-we-do">Find out more</a></div>
 </div>
 
-## Meet our Key Worker
+# Meet our Key Worker
 
-**Ponke Danker** (she/her)
+We have a dedicated Community Development Key Worker delivering signposting, support and coordinating our outreach and advocacy & policy work.
 
-{{ image(path="ponke.JPG", width=320)}}
+Ponke Danker (she/her)
 
-- **Phone**: 01 524 0178 / 087 155 8832
-- **Email**: ponke.danker@exchangehouse.ie
+**Phone**: 01 524 0178 / 087 155 8832
 
-[Contact Ponke](/contact)
+**Email**: info@travandromalgbti.ie
 
-## Meet the Steering Committee
+{{ image(path="/ponke.JPG", width=320)}}
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+<div><a class="button button--red" href="/contact">Contact Key Worker</a></div>
+</div>
+
+<div class="narrow-side-column" style="margin-bottom: 3rem;"> </div>
+
+<div class="color-box color-box--yellow">
+
+# The Steering Committee
 
 ##### Our Chairperson
 - Oein DeBhairdúin (he/him)
@@ -76,5 +95,4 @@ If you are an individual not affiliated with the LGBTI+ Traveller & Roma communi
 - Ruth Illingworth, LOOK (she/her)
 - Sam Blanckensee, [Transgender Equality Network Ireland](https://teni.ie/) (they/them)
 
-
-
+</div>
