@@ -46,16 +46,14 @@ Read the press release about the reasearch launch.
 {% end %}
 </ul>
 
-<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
-
-<div class="color-box color-box--blue">
-
 <p class="quote">
 « This report is a sobering reminder of the much required and forward steps needed towards achieving a more equal and safe society for LGBTI+ Travellers and Roma. As beautiful as the intersectionality of our identities can be, for most it is also a point of great fear and concern of safety with many of the spaces of support proving gravely insufficient or underdeveloped. »
 </p>
 <p class="quote-author">Oein DeBhairdúin, Chairperson of the National Action Group for LGBTI+ Traveller and Roma Rights</p>
 
-</div>
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+<div class="color-box color-box--blue">
 
 ## About the Peer-Research
 
@@ -70,23 +68,28 @@ Arts-based methodologies such as Photovoice and transcript poetry were used to h
 
 The study is gratefully supported by LGBT Ireland and the Irish Human Rights and Equality Commission (IHREC).
 
-<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+</div>
 
-<div class="color-box color-box--green">
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
 <p class="quote">
 « It’s about valuing people differently within our community, rather than coming down on anyone for their sexuality and gender. Accepting people for who they are, is the only way to be, as there is really no right way to be a Traveller. Live and let live! »
 </p>
 <p class="quote-author">Senator Eileen Flynn, Traveller Ally to LGBTI+ Traveller & Roma</p>
 
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
 <p class="quote">
 « If an LGBTI+ Traveller or Roma doesn’t come to our spaces due to fear of racism, then we must be really concerned about this, and embarrassed. Every LGBTI+ person needs to know they have a safe space in the LGBTI+ community including our rainbow kin in our indigenous ethnic minority, as well as other ethnic minorities. »
 </p>
 <p class="quote-author">Collette O’ Regan, representative of LGBT Ireland on the National Action Group for LGBTI+ Traveller and Roma Rights</p>
 
-</div>
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+<div class="color-box color-box--green">
 
 ## The Spoken Word Project - an exhibition of the research
 
 The full Spoken Word Project will be launched later in 2022/early 2023 both in physical spaces and virtually, to take this research off the page and into the public forum for discussion and debate.
 
+</div>
