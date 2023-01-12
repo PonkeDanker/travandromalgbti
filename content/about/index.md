@@ -68,7 +68,7 @@ Ponke Danker (she/her)
 
 <div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
-<div><a class="button button--red" href="/contact">Contact Key Worker</a></div>
+<div><a class="button button--red" href="/contact">Contact Ponke</a></div>
 </div>
 
 <div class="narrow-side-column" style="margin-bottom: 3rem;"> </div>
@@ -86,7 +86,7 @@ Ponke Danker (she/her)
 ##### Representatives of Traveller organisations & services
 - John Paul Collins, [Pavee Point Traveller and Roma Centre](https://www.paveepoint.ie/) (he/him)
 - Maria Carnicer, [Exchange House Ireland National Travellers Service](https://www.exchangehouse.ie/) (she/her)
-- Eve O'Brien, [Irish Traveller Movement](https://itmtrav.ie/) (she/her)
+- *Vacant*, [Irish Traveller Movement](https://itmtrav.ie/) 
 - Bridget Kelly, [National Traveller Women's Forum Ireland](https://www.ntwf.net/) (she/her)
 - Alan Hanley, [Tallaght Travellers Community Development Project](https://www.facebook.com/TallaghtTravellersCommunityDevelopmentProject/) (he/him)
 
