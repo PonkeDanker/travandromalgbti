@@ -2,7 +2,7 @@
 title = "How to get involved"
 +++
 
-[Go back](/home)
+[Go back](/what-we-do)
 
 # How to get involved
 
