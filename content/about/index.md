@@ -90,7 +90,7 @@ Ponke Danker (she/her)
 - Bridget Kelly, [National Traveller Women's Forum Ireland](https://www.ntwf.net/) (she/her)
 - Alan Hanley, [Tallaght Travellers Community Development Project](https://www.facebook.com/TallaghtTravellersCommunityDevelopmentProject/) (he/him)
 
-##### LGBTI+ organisations & services
+##### Representatives of LGBTI+ organisations & services
 - Collette O'Regan, [LGBT Ireland](https://lgbt.ie/) (she/her)
 - Ruth Illingworth, LOOK (she/her)
 - Sam Blanckensee, [Transgender Equality Network Ireland](https://teni.ie/) (they/them)
