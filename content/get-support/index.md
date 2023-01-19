@@ -2,7 +2,7 @@
 title = "Get Information and Support"
 +++
 
-{{ image(path="/you-are-not-alone.gif" )}}
+{{ image(path="/you-are-not-alone.gif")}}
 
 [Go back](/home)
 
@@ -19,7 +19,7 @@ And if you like to talk to us personally, give our Key Worker a ring or write he
 
 <ul class="card-list">
 {% card(
-	image="support-lines.png",
+	image="support-numbers-lgbt.png",
 	title="Find Help & Support",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-1-find-help"
@@ -29,7 +29,7 @@ Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ orga
 {% end %}
 
 {% card(
-	image="guide-support-coming-out.jpg",
+	image="guide-support-coming-out-square.jpg",
 	title="Advice & Guides",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-2-advice-guides"
@@ -41,7 +41,7 @@ We are currently working with a group of LGBTI+ Traveller & Roma to creage helpf
 {% end %}
 
 {% card(
-	image="2022-calendar.jpg",
+	image="calendar-2022-square.png",
 	title="Resources",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-3-resources"
@@ -64,57 +64,9 @@ If you are a parent ot carer of an LGBTI+ Traveller or ROma or you think your ch
 	image="report-picture-square.jpeg",
 	title="Peer-Research Report",
 	linkTitle="Find out more",
-	linkTarget="/what-we-do/research"
+	linkTarget="/get-support/card-5-research"
 	color="purple"
 ) %}
 The Peer-Research *Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma* was just published.
 {% end %}
 </ul>
-
-## Find Help & Support
-
-Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information...
-
-{{ image(path="/support-lines.png")}}
-
-...or contact the [Traveller Counselling Service](https://travellercounselling.ie/) or [Exchange House Ireland](https://www.exchangehouse.ie/services.php) and make an appointment with a counsellor!
-
-<img src="/traveller-counselling-sercvice.bmp" width=200><img src="/exchangehouse-logo.jpg" width=500>
-
-## Advice & Guides
-
-*COMING SOON* 
-
-We are currently working with a group of LGBTI+ Traveller & Roma to develop guides on 
-
-**Coming Out** 
-
-**Mental Health**
-
-**Physical Health**.
-
-## Resources
-
-Download the **LGBTI+ Traveller & Roma Calendar** or our **LGBTI+ Traveller & Roma Pride Poster** and share it with your community:
-
-<img src="/2022-calendar.jpg" width=400>
-
-[Download the 2022 LGBTI+ Traveller & Roma Calendar](/2022-Calendar-LGBTI-Traveller-Roma.pdf)
-
-<img src="/relaunchposter.jpg" width=400>
-
-[Download the LGBTI+ Traveller & Roma Pride Poster](/LGBTI-Trav-and-Roma-Pride-Poster.pdf)
-
-## For Parents & Carers
-
-If you are a parent or carer of an LGBTI+ Traveller or Roma or you think your child might be LGBTI+ you find some advice and resources [here](/for-parents). 
-
-## Peer-Research Unveiling Inequality
-
-*JUST PUBLISHED*
-
-Peer-Research Report 
-
-> " Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma ".
-
-[Find out more](/what-we-do/research)

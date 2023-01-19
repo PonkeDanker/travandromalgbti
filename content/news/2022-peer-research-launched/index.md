@@ -10,7 +10,7 @@ The National Action Group for LGBTI+ Traveller and Roma Rights proudly launched 
 
 The IHERC funded peer-to-peer research looks at the lived experience of LGBTI+ Travellers and Roma in Ireland and unveils how LGBTI+ Travellers and Roma face homophobia, anti-Traveller racism and a combination of the two in their own communities, the LGBTI+ community & the wider society.
 
-To learn more about the research, find out more [here](/what-we-do/research)!
+To learn more about the research, find out more [here](/get-support/card-5-research)!
 
 ## Picture Gallery
 

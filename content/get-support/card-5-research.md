@@ -1,19 +1,95 @@
 +++
-title = "Peer-Research Unveiling Inequality"
+title = "Peer-Research"
 +++
 
-{{ image(path="/you-are-not-alone.gif" )}}
+[Go back](/get-support)
 
-[Go back](/home)
+{{ image(path="/title-image-research-page.png" )}}
 
-# Peer-Research Unveiling Inequality
+## Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma
 
-*JUST PUBLISHED*
+Between 2021 and 2022 we have done research on the experiences of LGBTI+ Travelleres and Roma. 
 
-Peer-Research Report 
+The report "Unveiling Inequality – Experiences of LGBTI+ Traveller and Roma" with findings and recommendations has been published on 14th November 2022.
 
-> " Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma ".
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
-[Find out more](/what-we-do/research)
+<ul class="card-list">
+{% card(
+	image="report-picture-square.jpeg",
+	title="The Report",
+	linkTitle="Download",
+	linkTarget="/LGBTI-Traveller-and-Roma-Peer-Research-Report.pdf"
+	color="purple"
+) %}
+Read the 2022 Report: Unveiling Inequality - Experiences of LGBTI+ Travellers & Roma.
+{% end %}
 
-ACHTUNG index existiert bereits
+{% card(
+	image="report-picture-square.jpeg",
+	title="The Executive Summary",
+	linkTitle="Download",
+	linkTarget="/LGBTI-Traveller-and-Roma-Peer-Research-Executive-Summary.pdf"
+	color="purple"
+) %}
+Read the executive summary.
+{% end %}
+
+{% card(
+	image="report-picture-square.jpeg",
+	title="Press Release",
+	linkTitle="Download",
+	linkTarget="/LGBTI-Traveller-and-Roma-Peer-Research-Press-Release.pdf"
+	color="purple"
+) %}
+Read the press release about the reasearch launch.
+{% end %}
+</ul>
+
+<p class="quote">
+« This report is a sobering reminder of the much required and forward steps needed towards achieving a more equal and safe society for LGBTI+ Travellers and Roma. As beautiful as the intersectionality of our identities can be, for most it is also a point of great fear and concern of safety with many of the spaces of support proving gravely insufficient or underdeveloped. »
+</p>
+<p class="quote-author">Oein DeBhairdúin, Chairperson of the National Action Group for LGBTI+ Traveller and Roma Rights</p>
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+<div class="color-box color-box--blue">
+
+## About the Peer-Research
+
+In 2021, the National Action Group for LGBTI+ Traveller and Roma Rights commissioned a peer-to-peer participatory action
+research with the goal to unveil the isolation experienced by LGBTI+ Travellers and Roma, with the aim of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.
+
+Author and lead researcher Dr Sarah  Sartori was accompanied in her research by three peer-researcher.The process was developed with a focus on participation and empowerment, and in recognition that peers are experts within their field of experience.
+
+The research began in early 2021 and was completed in July 2022, and we understand it to be **the largest study of LGBTI+ Travellers and Roma in Ireland to date**. There were 57 engagements in total - 47 through an online survey tool, and 10 through focus-group discussions. 
+
+Arts-based methodologies such as Photovoice and transcript poetry were used to help participants and communities more broadly engage with the findings. Some examples of participant Photovoice and poems are included throughout the research report. 
+
+The study is gratefully supported by LGBT Ireland and the Irish Human Rights and Equality Commission (IHREC).
+
+</div>
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+<p class="quote">
+« It’s about valuing people differently within our community, rather than coming down on anyone for their sexuality and gender. Accepting people for who they are, is the only way to be, as there is really no right way to be a Traveller. Live and let live! »
+</p>
+<p class="quote-author">Senator Eileen Flynn, Traveller Ally to LGBTI+ Traveller & Roma</p>
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+<p class="quote">
+« If an LGBTI+ Traveller or Roma doesn’t come to our spaces due to fear of racism, then we must be really concerned about this, and embarrassed. Every LGBTI+ person needs to know they have a safe space in the LGBTI+ community including our rainbow kin in our indigenous ethnic minority, as well as other ethnic minorities. »
+</p>
+<p class="quote-author">Collette O’ Regan, representative of LGBT Ireland on the National Action Group for LGBTI+ Traveller and Roma Rights</p>
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+<div class="color-box color-box--green">
+
+## The Spoken Word Project - an exhibition of the research
+
+The full Spoken Word Project will be launched later in 2022/early 2023 both in physical spaces and virtually, to take this research off the page and into the public forum for discussion and debate.
+
+</div>
