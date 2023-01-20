@@ -57,7 +57,7 @@ Download our resources and find support, share them with your community and cele
 	linkTarget="/get-support/card-4-for-parents"
 	color="yellow"
 ) %}
-If you are a parent ot carer of an LGBTI+ Traveller or ROma or you think your child might be LGBTI+, you find some advice & support here.
+If you are a parent ot carer of an LGBTI+ Traveller or Roma or you think your child might be LGBTI+, you find some advice & support here.
 {% end %}
 
 {% card(
