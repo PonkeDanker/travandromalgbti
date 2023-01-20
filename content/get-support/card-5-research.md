@@ -42,7 +42,7 @@ Read the executive summary.
 	linkTarget="/LGBTI-Traveller-and-Roma-Peer-Research-Press-Release.pdf"
 	color="purple"
 ) %}
-Read the press release about the reasearch launch.
+Read the press release about the research launch.
 {% end %}
 </ul>
 
