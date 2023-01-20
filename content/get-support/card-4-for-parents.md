@@ -8,6 +8,8 @@ title = "Get Information and Support"
 
 # Love your child!
 
+<div class="color-box color-box--purple">
+
 **Is your child struggling with their sexual identity or gender? Did they just tell you that they are lesbian, gay, bisexual or transgender or is your child intersex?**
 
 You may feel shock and fear, but you are not alone. It is ok to be gay, lesbian, bisexual, transgender or intersex as a Traveller or Roma. LGBTI+ Traveller and Roma live happy and fulfilled lives being true to both their identities as LGBT+ and as Traveller and Roma. 
@@ -15,6 +17,8 @@ You may feel shock and fear, but you are not alone. It is ok to be gay, lesbian,
 What your child needs most of all now is your love and acceptance and the knowledge that you support them in living a full life in your community and in society. 
 
 There are many resources out there and people you can talk to, to find out how best to cope with your worries and to support and love your child in your family and community.
+
+</div>
 
 <div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
@@ -29,7 +33,7 @@ There are many resources out there and people you can talk to, to find out how b
 
 {% horizontalCard(
 	image="/guide-support-coming-out-square.jpg",
-    color="purple",
+    color="yellow",
 	linkTitle="Download",
 	linkTarget="/guide-support-coming-out.pdf"
 ) %}
