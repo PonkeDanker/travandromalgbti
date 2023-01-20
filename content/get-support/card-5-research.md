@@ -27,7 +27,7 @@ Read the 2022 Report: Unveiling Inequality - Experiences of LGBTI+ Travellers & 
 
 {% card(
 	image="report-picture-square.jpeg",
-	title="The Executive Summary",
+	title="Executive Summary",
 	linkTitle="Download",
 	linkTarget="/LGBTI-Traveller-and-Roma-Peer-Research-Executive-Summary.pdf"
 	color="purple"
