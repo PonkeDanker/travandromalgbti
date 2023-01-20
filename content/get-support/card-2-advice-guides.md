@@ -14,6 +14,7 @@ title = "Advice & Guides"
 	linkTitle="Download",
 	linkTarget="/guide-support-coming-out.pdf"
 ) %}
+
 ##### Support Someone Coming Out
 
 Download a guide on how to support someone coming out.

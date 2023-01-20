@@ -4,50 +4,81 @@ title = "Get Information and Support"
 
 [Go back](/get-support)
 
-# For Parents & Carers
+{{ image(path="/title-image-parents-page.png" )}}
 
-#### Love your child!
+# Love your child!
 
-##### Is your child struggling with their sexual identity or gender? Did they just tell you that they are lesbian, gay, bisexual or transgender or is your child intersex?
+**Is your child struggling with their sexual identity or gender? Did they just tell you that they are lesbian, gay, bisexual or transgender or is your child intersex?**
 
-You may feel shock and fear, but you are not alone and it is ok to be gay, lesbian, bisexual, transgender or intersex as a Traveller or Roma. LGBTI+ Traveller and Roma live happy and fulfilled lives being true to both their identities as LGBT+ and as Traveller and Roma. 
+You may feel shock and fear, but you are not alone. It is ok to be gay, lesbian, bisexual, transgender or intersex as a Traveller or Roma. LGBTI+ Traveller and Roma live happy and fulfilled lives being true to both their identities as LGBT+ and as Traveller and Roma. 
 
-What your child needs most of all now is your love and acceptance and the knowledge that you support them in living a full life in your community. 
+What your child needs most of all now is your love and acceptance and the knowledge that you support them in living a full life in your community and in society. 
 
 There are many resources out there and people you can talk to, to find out how best to cope with your worries and to support and love your child in your family and community.
 
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
-## Quotes
+<p class="quote">
+« As Travellers it is vital we embrace and celebrate diversity within our community including our LGBTQI+ members. We must never leave any Traveller behind on our journey towards equality, if we do then we have failed. »
+</p>
+<p class="quote-author">Rosemarie Maughan, Traveller Ally to LGBTI+ Traveller & Roma</p>
 
-> ##### « As Travellers it is vital we embrace and celebrate diversity within our community including our LGBTQI+ members. We must never leave any Traveller behind on our journey towards equality, if we do then we have failed. »
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
 
-> Rosemarie Maughan, Traveller Ally to LGBTI+ Traveller & Roma
+# Support Coming Out Guide
 
-## Our Support Coming Out Guide
+{% horizontalCard(
+	image="/guide-support-coming-out-square.jpg",
+    color="purple",
+	linkTitle="Download",
+	linkTarget="/guide-support-coming-out.pdf"
+) %}
 
-Download our guide on how to support someone coming out as LGBTI+. 
+##### Guide on Supporting Someone Coming Out
 
-[Download here](/guide-support-coming-out.pdf)
+Download a guide on how to support someone coming out as Lesbian, Gay, Bisexual, Transgender, intersex or queer. 
 
-<img src="/guide-support-coming-out.jpg" width=400/>
+You'll find useful info, a step-by-step plan and helplines there.
+{% end %}
 
-#### 6 Step Plan  - Support Coming Out
+<div class="narrow-side-column" style="margin-bottom: 3rem;"> </div>
 
-- Show a positive and warm reaction so they know you **accept them**.
-- Tell them that they are brave to **acknowledge them**.
-- Reassure them that you **do not judge them**.
-- **Do not share** this with anyone unless agreed together.
-- You are not expected to know everything about being LGBTI+, **just listen**.
-- Direct them to **supports and services**.
+<div class="color-box color-box--blue">
 
-## FAQ
+# 6 Steps to Support Coming Out
+
+1. Show a positive and warm reaction so they know you **accept them**.
+2. Tell them that they are brave to **acknowledge them**.
+3. Reassure them that you **do not judge them**.
+4. **Do not share** this with anyone unless agreed together.
+5. You are not expected to know everything about being LGBTI+, **just listen**.
+6. Direct them to **supports and services**.
+
+</div>
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+# FAQ
+
+<div class="narrow-side-column" style="margin-bottom: 3rem;">
 
 Look at Questions & Answers that many parents have when their child struggles with their sexual or gender identity or came out. BelongTo, the national organisation supporting LGBTI+ young people, answers a couple of FAQ.
+   
+<div><a class="button button--green" href="https://www.belongto.org/parents/advice/">Find out more</a></div>
+</div>
 
-[Find out more](https://www.belongto.org/parents/advice/)
+# Find Help & Support
 
-## Find Help & Support
+<div class="narrow-side-column" style="margin-bottom: 3rem;">
 
-You can always [contact us](/contact).
+You can always contact us.
+   
+<div><a class="button button--purple" href="/contact">Contact</a></div>
+</div>
 
-Or find support at [BelongTo](https://www.belongto.org/parents/), the national organisation supporting LGBTI+ young people.
+<div class="narrow-side-column" style="margin-bottom: 3rem;">
+
+Or find support at BelongTo, the national organisation supporting LGBTI+ young people.
+   
+<div><a class="button button--blue" href="https://www.belongto.org/parents/">Go to BelongTo</a></div>
+</div>
