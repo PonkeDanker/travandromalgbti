@@ -2,7 +2,7 @@
 title = "Find Help & Support"
 +++
 
-[Go back](/home)
+[Go back](/get-support)
 
 # Find Help & Support
 
@@ -13,10 +13,10 @@ Talk to someone at an LGBTI+ Traveller & Roma friendly LGBTI+ service who offers
 {% horizontalCard(
 	image="/support-numbers-lgbt.png",
 	color="purple",
-	linkTitle="Go to LGBT Ireland",
+	linkTitle="Go to LGBT Support Lines",
 	linkTarget="https://lgbt.ie/lgbt-helpline-opening-hours/"
 ) %}
-LGBT Ireland offers a **free support service**.
+LGBT Ireland offers a **free support service** at selected times during the week.
 
 Call **1800 929 539**.
 
@@ -26,7 +26,7 @@ They also offer an **Online Chat Support & monthly Peer Support Groups**.
 {% horizontalCard(
 	image="/transgender-support-square.png",
 	color="purple",
-	linkTitle="Go to LGBT Ireland",
+	linkTitle="Go to Trans Support Line",
 	linkTarget="https://lgbt.ie/lgbt-helpline-opening-hours/"
 ) %}
 LGBT Ireland & the Transgender Equality Network Ireland (TENI) also offer a **Transgender Family Support Line** on Sunday Evenings and Tuesday Mornings.
@@ -42,7 +42,7 @@ Call **01 907 3703**.
 ) %}
 Young People can find support tailored to their needs at BelongTo, the **LGBTQI+ Youth Service**.
 
-You can call them at 01 670 6223. They also offer Youth Groups throughput Ireland.
+You can call them at 01 670 6223. They also offer Youth Groups throughout Ireland.
 {% end %}
 
 ##### Out-of-hours 24/7 Support
@@ -50,7 +50,7 @@ You can call them at 01 670 6223. They also offer Youth Groups throughput Irelan
 If you are in immediate need of support, you can find support here:
 
 {% horizontalCard(
-	image="/logo-wagon.png",
+	image="/samaritans-logo-square.png",
 	color="yellow",
 	linkTitle="Go to the Samaritans",
 	linkTarget="https://www.samaritans.org/?currency=EUR&nation=ireland"
@@ -64,7 +64,7 @@ There is also a chat or you write them a letter or an email.
 
 ##### Free Counselling Services
 
-Or for a more long-term support, make an appointment for counselling at an LGBTI+ Traveller and Roma friendly service:
+Or for a more long-term support, make an appointment for counselling at an LGBTI+ Traveller & Roma friendly service:
 
 {% horizontalCard(
 	image="/traveller-counselling-service-square.png",
@@ -84,7 +84,7 @@ The Travelling Counselling Service is working from a culturally inclusive framew
 	linkTitle="Go to Exchange House Ireland",
 	linkTarget="https://www.exchangehouse.ie/services_mentalhealth.php"
 ) %}
-Exchange House Ireland's National Mental Health Service offers counselling services and will offer an non-judgemental ear to LGBTI+ Traveller & Roma. 
+Exchange House Ireland's National Mental Health Service offers counselling services and will offer a non-judgemental ear to LGBTI+ Traveller & Roma. 
 
 Get in touch with Exchange House Ireland to **get more information**. Call **01 872 1118**.
 {% end %}
