@@ -37,11 +37,11 @@ Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ orga
 ) %}
 COMING SOON
 
-We are currently working with a group of LGBTI+ Traveller & Roma to creage helpful guides
+We are currently working with a group of LGBTI+ Traveller & Roma to create helpful guides
 {% end %}
 
 {% card(
-	image="calendar-2022-square.png",
+	image="traveller-mental-health-conference-2-square.jpg",
 	title="Resources",
 	linkTitle="Find out more",
 	linkTarget="/get-support/card-3-resources"

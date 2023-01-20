@@ -2,7 +2,7 @@
 title = "Resources"
 +++
 
-{{ image(path="/2022-calendar.jpg" )}}
+{{ image(path="/title-image-resources-page.png" )}}
 
 [Go back](/home)
 
@@ -41,8 +41,34 @@ Read the study "Unveiling Inequalities - Experiences of LGBTI+ Traveller & Roma"
 ) %}
 Find advice how to help someone coming out.
 {% end %}
+
+{% card(
+	image="pride-poster-square.jpg",
+	title="LGBTI+ Traveller & Roma Pride Poster",
+	linkTitle="Download",
+	linkTarget="/pride-poster.pdf"
+	color="purple"
+) %}
+Enjoy the 2022 LGBTI+ Traveller & Roma Calendar.
+{% end %}
+
+{% card(
+	image="2022-calendar-square.png",
+	title="2022 LGBTI+ Traveller & Roma Calendar",
+	linkTitle="Download",
+	linkTarget="/2022-calendar.pdf"
+	color="purple"
+) %}
+Enjoy the 2022 LGBTI+ Traveller & Roma Calendar.
+{% end %}
+
+{% card(
+	image="2022-calendar-square.png",
+	title="2021 LGBTI+ Traveller & Roma Calendar",
+	linkTitle="Download",
+	linkTarget="/2022-calendar.pdf"
+	color="purple"
+) %}
+Enjoy the 2021 LGBTI+ Traveller & Roma Calendar.
+{% end %}
 </ul>
-
-<img src="/relaunchposter.jpg" width=400>
-
-[Download the LGBTI+ Traveller & Roma Pride Poster](/LGBTI-Trav-and-Roma-Pride-Poster.pdf)
