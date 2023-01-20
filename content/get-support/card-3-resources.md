@@ -4,7 +4,7 @@ title = "Resources"
 
 {{ image(path="/title-image-resources-page.png" )}}
 
-[Go back](/home)
+[Go back](/get-support)
 
 # Resources
 
