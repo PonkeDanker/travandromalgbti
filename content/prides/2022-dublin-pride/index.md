@@ -7,7 +7,7 @@ title = "Dublin Pride 2023"
 {% horizontalCard(
 	image="/dublin-pride.jpg",
 	color="purple",
-	linkTitle="More info",
+	linkTitle="Go to Dublin Pride",
 	linkTarget="https://dublinpride.ie/"
 ) %}
 # Dublin Pride 2022

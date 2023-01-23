@@ -22,7 +22,7 @@ See our Pride gallery for info and photos about this year's prides and past para
 	linkTarget="/prides/2023-dublin-pride"
 	color="purple"
 ) %}
-Dublin Pride 2023 will be on **Saturday, 24th June 2023**. SAVE THE DATE.
+Dublin Pride 2023 will be on **Saturday, 24th June 2023**. **SAVE THE DATE**.
 {% end %}
 
 {% card(
@@ -69,7 +69,7 @@ Long-term Ally Mary McDonagh read out a speech by Trans Traveller Mike at the Tr
 	linkTarget="/prides/2022-galway-pride"
 	color="green"
 ) %}
-In August 2022, the National Action Group for LGBTI+ Traveller and Roma RIghts proudly walked with the Galway Traveller Movement in Galway's Pride Parade.
+In August 2022, the National Action Group for LGBTI+ Traveller and Roma Rights proudly walked with the Galway Traveller Movement in Galway's Pride Parade.
 {% end %}
 
 {% card(
