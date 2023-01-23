@@ -1,9 +1,9 @@
 +++
 date = "2023-01-23"
-title = "2023 LGBTI+ Traveller & Roma Calendar just published"
+title = "2023 LGBTI+ Traveller & Roma Calendar NEWLY published"
 [extra]
 image = "/2023-calendar-square.png" 
-summary = "The annual LGBTI+ Traveller & Roma Calendar has been newly published."
+summary = "The annual LGBTI+ Traveller & Roma Calendar has been just published."
 +++
 
 This 2023 calendar has been printed for Traveller & Roma organisations and families to welcome LGBT+ members of their community, and for LGBT+ organisations and families to be supportive and inclusive of LGBT+ Traveller & Roma. Please share and promote widely!
