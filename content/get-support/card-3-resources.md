@@ -10,6 +10,12 @@ title = "Resources"
 
 Download our resources and share them with your community, support someone coming out, celebrate LGBTI+ Traveller & Roma and inform about your/their experiences. 
 
+<div class="narrow-side-column">
+
+You can order physical copies of all resources. Just write to us and we'll send you what you need. 
+
+<div><a class="button button--blue" href="/emailto:info@travandromalgbti.ie">Email us</a></div>
+</div>
 
 <ul class="card-list">
 {% card(
