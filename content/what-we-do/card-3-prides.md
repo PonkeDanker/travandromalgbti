@@ -47,8 +47,39 @@ Look at photos from the last Pride Parade before Covid.
 
 </ul>
 
-
-
 # Other Prides
 
 We also engage in Prides nationwide as much as we can:
+
+<ul class="card-list">
+{% card(
+	image="trans-pride.png",
+	title="Trans- and Intersex Pride Dublin 2022",
+	linkTitle="Learn more",
+	linkTarget="/prides/2022-trans-intersex-pride"
+	color="green"
+) %}
+Long-term Ally Mary McDonagh read out a speech by Trans Traveller Mike at the Trans- and Intersex Pride in Dublin in July 2022.
+{% end %}
+
+{% card(
+	image="galway-pride.jpg",
+	title="Galway Pride 2022",
+	linkTitle="Gallery",
+	linkTarget="/prides/2022-galway-pride"
+	color="green"
+) %}
+In August 2022, the National Action Group for LGBTI+ Traveller and Roma RIghts proudly walked with the Galway Traveller Movement in Galway's Pride Parade.
+{% end %}
+
+{% card(
+	image="sligo-pride.jpg",
+	title="Sligo Pride 2022",
+	linkTitle="Learn more",
+	linkTarget="/prides/2022-sligo-pride"
+	color="green"
+) %}
+Learn more about the LGBTI+ Traveller and Roma event during Sligo Pride 2022.
+{% end %}
+
+</ul>

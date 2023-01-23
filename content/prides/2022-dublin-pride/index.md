@@ -10,7 +10,7 @@ title = "Dublin Pride 2023"
 	linkTitle="More info",
 	linkTarget="https://dublinpride.ie/"
 ) %}
-#### Dublin Pride 2022
+# Dublin Pride 2022
 {% end %}
 
 On 24th June 2022 LGBTI+ Traveller & Roma, the National Action Group for LGBTI+ Traveller and Roma Rights and allies walked right at the front of the parade. Have a look at the photos.
