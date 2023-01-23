@@ -33,7 +33,7 @@ There are many resources out there and people you can talk to, to find out how b
 
 {% horizontalCard(
 	image="/guide-support-coming-out-square.jpg",
-    color="yellow",
+    color="blue",
 	linkTitle="Download",
 	linkTarget="/guide-support-coming-out.pdf"
 ) %}
@@ -47,7 +47,7 @@ You'll find useful info, a step-by-step plan and helplines there.
 
 <div class="narrow-side-column" style="margin-bottom: 3rem;"> </div>
 
-<div class="color-box color-box--blue">
+<div class="color-box color-box--yellow">
 
 # 6 Steps to Support Coming Out
 
