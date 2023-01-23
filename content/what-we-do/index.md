@@ -42,7 +42,7 @@ We undertake research with the goal to unveil the experiences of LGBTI+ Travelle
 	image="dublin-pride.jpg",
 	title="Prides",
 	linkTitle="Find out more",
-	linkTarget="/what-we-do/prides"
+	linkTarget="/what-we-do/card-3-prides"
 	color="green"
 ) %}
 We participate in the annual Dublin Pride Parade & many more annual Pride events and celebrations throughout the country.

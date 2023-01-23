@@ -12,6 +12,6 @@ At the most anticipated event of the Pride Season, LGBTI+ Traveller & Roma were 
 
 Have a look at some pictures here:
 
-<a class="button button--yellow" href="/what-we-do/prides">2022 Pride Gallery</a>
+<a class="button button--yellow" href="/what-we-do/prides/2022-dublin-pride">2022 Pride Gallery</a>
 
 </div>
