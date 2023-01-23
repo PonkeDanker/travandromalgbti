@@ -60,27 +60,29 @@ You'll find useful info, a step-by-step plan and helplines there.
 
 </div>
 
-<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+<div class="narrow-side-column" style="margin-bottom: 3rem;"> </div>
 
 # FAQ
 
-<div class="narrow-side-column" style="margin-bottom: 3rem;">
+<div class="narrow-side-column">
 
-Look at Questions & Answers that many parents have when their child struggles with their sexual or gender identity or came out. BelongTo, the national organisation supporting LGBTI+ young people, answers a couple of FAQ.
+Look at Questions & Answers that many parents have when their child struggles with their sexual or gender identity or came out as LGBTI+. BelongTo, the national organisation supporting LGBTI+ young people, answers a couple of FAQ.
    
 <div><a class="button button--green" href="https://www.belongto.org/parents/advice/">Find out more</a></div>
 </div>
 
 # Find Help & Support
 
-<div class="narrow-side-column" style="margin-bottom: 3rem;">
+<div class="narrow-side-column">
 
 You can always contact us.
    
-<div><a class="button button--purple" href="/contact">Contact</a></div>
+<div><a class="button button--purple" href="/contact">Contact us</a></div>
 </div>
 
-<div class="narrow-side-column" style="margin-bottom: 3rem;">
+<div class="narrow-side-column" style="margin-bottom: 2rem;"> </div>
+
+<div class="narrow-side-column">
 
 Or find support at BelongTo, the national organisation supporting LGBTI+ young people.
    
