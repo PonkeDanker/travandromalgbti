@@ -13,13 +13,13 @@ Download our resources and share them with your community, support someone comin
 
 <ul class="card-list">
 {% card(
-	image="2022-calendar-square.png",
+	image="2023-calendar-square.png",
 	title="NEW 2023 LGBTI+ Traveller & Roma Calendar",
 	linkTitle="Download",
 	linkTarget="/2023-calendar.pdf"
 	color="purple"
 ) %}
-Celebrate LGBTI+ Traveller & Roma and hang up the 2023 calendar. All its quotes are from the newly punlished research.
+Celebrate LGBTI+ Traveller & Roma and hang up the 2023 calendar. All its quotes are from the newly published peer-research.
 {% end %}
 
 {% card(
@@ -49,7 +49,7 @@ Find advice how to help someone coming out.
 	linkTarget="/pride-poster.pdf"
 	color="purple"
 ) %}
-Enjoy the 2022 LGBTI+ Traveller & Roma Calendar.
+Celebrate LGBTI+ Traveller & Roma with this poster and make known that Traveller and Roma can be gay, lesbian, transgender or queer and that's OK.
 {% end %}
 
 {% card(
@@ -63,10 +63,10 @@ Enjoy the 2022 LGBTI+ Traveller & Roma Calendar.
 {% end %}
 
 {% card(
-	image="2022-calendar-square.png",
+	image="2021-calendar-square.png",
 	title="2021 LGBTI+ Traveller & Roma Calendar",
 	linkTitle="Download",
-	linkTarget="/2022-calendar.pdf"
+	linkTarget="/2021-calendar.pdf"
 	color="purple"
 ) %}
 Enjoy the 2021 LGBTI+ Traveller & Roma Calendar.
