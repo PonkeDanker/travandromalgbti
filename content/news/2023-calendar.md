@@ -6,7 +6,7 @@ image = "/2023-calendar-square.png"
 summary = "The annual LGBTI+ Traveller & Roma Calendar has been just published."
 +++
 
-This 2023 calendar has been printed for Traveller & Roma organisations and families to welcome LGBT+ members of their community, and for LGBT+ organisations and families to be supportive and inclusive of LGBT+ Traveller & Roma. Please share and promote widely!
+This 2023 calendar has been printed for Traveller & Roma organisations and families to welcome LGBTI+ members of their community, and for LGBTI+ organisations and families to be supportive and inclusive of LGBTI+ Traveller & Roma. Please share and promote widely!
 
 <div class="narrow-side-column">
 
