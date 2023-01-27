@@ -2,57 +2,127 @@
 title = "How to become an ally"
 +++
 
--- 
-
-TO BE TAKEN OUT WHEN ONLINE: Introduction on index page:
-
-{% card(
-	image="protest-sign.jpg",
-	title="Get involved",
-	linkTitle="Find out more",
-	linkTarget="/what-we-do/card-4-get-involved"
-	color="green"
-) %}
-You want to get involved in our work? We would be delighted to hear from you.
-{% end %}
-
---
+{{ image(path="/title-image-become-ally-page.png" )}}
 
 [Go back](/what-we-do)
 
-# How to get involved
+# How to Become an Ally
 
-<div class="color-box color-box--purple">
+### How to be an LGBTI+ Traveller & Roma Ally?
 
-### You are a Lesbian, Gay, Bisexual, Transsexual, Intersex or Queer (LGBTI+) Traveller or Roma?
+- Start the conversations about it’s OK to be an LGBTI+ Traveller & Roma. Have these conversations with people you know!
 
-And want to get involved? There are many options to do so!
+- Realise we, LGBTI+ Travellers & Roma, are your family!
 
-You can become a **member** of the National Action Group for LGBTI+ Traveller and Roma Rights, even if you want to stay anonymous! We send you info emails regularly. Please write to us or give us a call.
+- Use language which includes all kinds of people who love all kinds of people - don’t just talk about boys having girlfriends; talk about boys having boyfriends and girls having girlfriends and that’s OK. 
 
-You can also stay completely **anonymous**, if you want to! *Please inform us about your wish to stay anonymous right at the start.* 
+- Don’t wait- come out as an LGBT ally! How else will people know you are supportive if you don’t say you are?
 
-You want to become an activist or a member of the **Steering Committee**? Let's talk!
+- Defend LGBTI+ Traveller & Roma in conversations or comments you hear when they use insulting words or language - don’t stay silent.
 
-<div><a class="button button--white" href="/contact">Contact</a></div>
-</div>
+- Stand up for and with LGBTI+ Traveller & Roma - for example go to Pride with them!
 
-### You are a Traveller or Roma individual or an organisation working with Travellers, Roma or LGBTI+ people?
+<div class="color-box color-box--green">
+
+### COME OUT as Ally to LGBTI+ Travellers & Roma:
 
 <div class="narrow-side-column">
 
-You want to become a **member**? Or your organisation wants become part of the **Steering Committee**? Let's talk!
+1. Print the sign or write on a piece of paper: 
 
-<div><a class="button button--green" href="/mailto:ponke.danker@exchangehouse.ie">Email</a></div>
+<div><a class="button button--white" href="/2023-calendar.pdf">Download</a></div>
+</div> 
+
+		I agree to INFORM, SUPPORT and STAND UP FOR LGBTI+ Traveller and Roma.
+
+2. Take a photo holding the statement. 
+
+3. Share it on social media.
+
+<div class="narrow-side-column">
+
+4. Email us your photo.
+
+<div><a class="button button--white" href="/mailto:info@travandromalgbti.ie">Email</a></div>
 </div>
 
-<div class="narrow-side-column" style="margin-bottom: 3rem;"> </div>
+</div>
+
+### What can Traveller & Roma organsations do?
+
+- Create positive visibility for LGBTI+ Traveller & Roma in your spaces and make spaces for LGBTI+ issues, conversations and people in your organisation. For example, put up the LGBTI+ Traveller & Roma Pride poster.
+
+- Challenge the fear around LGBTI+ issues & correct wrong information.
+
+- Show you support LGBTI+ Traveller & Roma and their families.
+
+- Challenge the shame around LGBTI+ issues - there is nothing shameful about being true to who you are.
+
+- Be aware as an organisation that the wider Traveller or Roma communities may push back against you for supporting LGBTI+ Traveller & Roma and be ready to deal with that.
+
+- Put in place LGBTI+ Awareness Training for your organisation & then make a policy for ‘being an LGBTI+ Ally’ in your organisation.
+
+- Finally make a ‘Critical Incident Policy’ which spells out what to do, where to signpost someone when they are at risk and in need of support.
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+<div class="color-box color-box--yellow">
+
+### Find Resources & Info
+
+<div class="narrow-side-column">
+
+Get our resources, including the LGBTI+ Traveller & Roma Pride poster here:
+
+<div><a class="button button--white" href="/get-support/card-6-research">Resources</a></div>
+</div>
+
+<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+
+<div class="narrow-side-column">
+
+Talk to us if you seek support or more information.
+
+<div><a class="button button--white" href="/contact">Contact</a></div>
+</div>
+
+</div>
+
+### What can LGBTI+ organisations do?
+
+- Create positive visibility for LGBTI+ Traveller & Roma in your spaces and address intersectionality & marginalisation of minorities in the LGBTI+ community, and make space for conversations and people in your organisation. For example, put up the LGBTI+ Traveller & Roma Pride poster.
+
+- Challenge Anti-Traveller and Anti-Roma racism.
+
+- Show you support LGBTI+ Traveller & Roma and their families.
+
+- Reach out, cooperate and work with Traveller & Roma organisations. Don't let them do the work of coming to you. 
+
+- Put in place Anti-(Traveller/Roma)-Raccism Awareness Training for your organsiation & then make a poliy for 'being an LGBTI+ Traveller & Roma Ally' in your organsation.
+
+- Finally make a ‘Critical Incident Policy’ which spells out what to do, where to signpost someone when they are at risk and in need of support.
 
 <div class="color-box color-box--blue">
 
-### You are an individual supporting our cause?
+### How organisations can COME OUT as ally:
 
-Want to **become an ally**? Contact us!
+<div class="narrow-side-column">
 
-<div><a class="button button--white" href="/contact">Contact</a></div>
+1. Organise a photo shoot with staff holding the statement and including the organisation name & logo:
+
+<div><a class="button button--white" href="/2023-calendar.pdf">Download</a></div>
+</div> 
+
+		I agree to INFORM, SUPPORT and STAND UP FOR LGBTI+ Traveller and Roma.
+
+2. Dedicate a space on your organisation’s social media sites for the photos.
+
+<div class="narrow-side-column">
+
+3. Email us your photo.
+
+<div><a class="button button--white" href="/mailto:info@travandromalgbti.ie">Email</a></div>
+</div>
+
+</div>
 </div>
