@@ -55,6 +55,8 @@ If you are a parent ot carer of an LGBTI+ Traveller or Roma or you think your ch
 	linkTarget="/get-support/card-4-for-young-people"
 	color="yellow"
 ) %}
+COMING SOON
+
 Growing up as LGBTI+ Traveller or Roma is not always easy. Get the support & info you need. 
 {% end %}
 
