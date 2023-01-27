@@ -8,11 +8,11 @@ title = "What We Do"
 
 # What We Do 
 
-Find out more about what the National Action Group for LGBTI+ Traveller and Roma Rights does.
+We provide support & information, undertake research and participate in Pride celebrations & protests around Ireland, aiming to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma.
 
 <div class="narrow-side-column" style="margin-bottom: 3rem;">
     
-Or if you want to talk to us personally, give our Key Worker a ring or write her a message.
+Learn more **further down**, or if you want to talk to us personally, give our Key Worker a ring or write her a message.
    
 <div><a class="button button--blue" href="/contact">Contact</a></div>
 </div>
@@ -20,7 +20,7 @@ Or if you want to talk to us personally, give our Key Worker a ring or write her
 <ul class="card-list">
 {% card(
 	image="logo-wagon.png",
-	title="Provide Information & Support",
+	title="Support & Information",
 	linkTitle="Find out more",
 	linkTarget="/get-support"
 	color="green"
@@ -35,7 +35,7 @@ We provide information, sign-posting and support to LGBTI+ Travellers & Roma, th
 	linkTarget="/get-support/card-5-research"
 	color="orange"
 ) %}
-We undertake research with the goal to unveil the experiences of LGBTI+ Travellers and ROma, with the aom of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.
+We undertake research with the goal to unveil the experiences of LGBTI+ Travellers and Roma, with the aom of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.
 {% end %}
 
 {% card(
@@ -48,13 +48,4 @@ We undertake research with the goal to unveil the experiences of LGBTI+ Travelle
 We participate in the annual Dublin Pride Parade & many more annual Pride events and celebrations throughout the country.
 {% end %}
 
-{% card(
-	image="protest-sign.jpg",
-	title="Get involved",
-	linkTitle="Find out more",
-	linkTarget="/what-we-do/card-4-get-involved"
-	color="green"
-) %}
-You want to get involved in our work? We would be delighted to hear from you.
-{% end %}
 </ul>

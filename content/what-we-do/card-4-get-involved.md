@@ -2,6 +2,22 @@
 title = "How to get involved"
 +++
 
+-- 
+
+TO BE TAKEN OUT WHEN ONLINE: Introduction on index page:
+
+{% card(
+	image="protest-sign.jpg",
+	title="Get involved",
+	linkTitle="Find out more",
+	linkTarget="/what-we-do/card-4-get-involved"
+	color="green"
+) %}
+You want to get involved in our work? We would be delighted to hear from you.
+{% end %}
+
+--
+
 [Go back](/what-we-do)
 
 # How to get involved
