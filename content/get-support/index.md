@@ -35,38 +35,56 @@ Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ orga
 	linkTarget="/get-support/card-2-advice-guides"
 	color="yellow"
 ) %}
-COMING SOON
+Read the Guide to Coming Out Guide. We are also currently working with a group of LGBTI+ Traveller & Roma to create more helpful guides.
+{% end %}
 
-We are currently working with a group of LGBTI+ Traveller & Roma to create helpful guides
+{% card(
+	image="dublin-pride-1-square.jpg",
+	title="For Parents & Carers",
+	linkTitle="Find out more",
+	linkTarget="/get-support/card-3-for-parents"
+	color="purple"
+) %}
+If you are a parent ot carer of an LGBTI+ Traveller or Roma or you think your child might be LGBTI+, you find some advice & support here.
+{% end %}
+
+{% card(
+	image="johnny-albert.jpg",
+	title="For Young People",
+	linkTitle="Find out more",
+	linkTarget="/get-support/card-4-for-young-people"
+	color="yellow"
+) %}
+Growing up as LGBTI+ Traveller or Roma is not always easy. Get the support & info you need. 
 {% end %}
 
 {% card(
 	image="traveller-mental-health-conference-2-square.jpg",
 	title="Resources",
 	linkTitle="Find out more",
-	linkTarget="/get-support/card-3-resources"
+	linkTarget="/get-support/card-5-resources"
 	color="purple"
 ) %}
 Download our resources and find support, share them with your community and celebrate.
 {% end %}
 
 {% card(
-	image="eileen-family-sq.jpg",
-	title="For Parents & Carers",
-	linkTitle="Find out more",
-	linkTarget="/get-support/card-4-for-parents"
-	color="yellow"
-) %}
-If you are a parent ot carer of an LGBTI+ Traveller or Roma or you think your child might be LGBTI+, you find some advice & support here.
-{% end %}
-
-{% card(
 	image="report-picture-square.jpeg",
 	title="Peer-Research Report",
 	linkTitle="Find out more",
-	linkTarget="/get-support/card-5-research"
-	color="purple"
+	linkTarget="/get-support/card-6-research"
+	color="yellow"
 ) %}
 The Peer-Research *Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma* was just published.
+{% end %}
+
+{% card(
+	image="allies.jpg",
+	title="How to Become An Ally",
+	linkTitle="Find out more",
+	linkTarget="/get-support/card-7-become-an-ally"
+	color="yellow"
+) %}
+You would like to become an ally? 
 {% end %}
 </ul>
