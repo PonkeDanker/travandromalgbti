@@ -30,7 +30,7 @@ title = "How to become an ally"
 
 1. Print the sign or write on a piece of paper: 
 
-<div><a class="button button--white" href="/2023-calendar.pdf">Download</a></div>
+<div><a class="button button--white" href="/come-out-as-ally.pdf">Download</a></div>
 </div> 
 
 		I agree to INFORM, SUPPORT and STAND UP FOR LGBTI+ Traveller and Roma.
