@@ -77,14 +77,42 @@ Look at Questions & Answers that many parents have when their child struggles wi
 
 You can always contact us.
    
-<div><a class="button button--purple" href="/contact">Contact us</a></div>
+<div><a class="button button--blue" href="/contact">Contact us</a></div>
 </div>
+
+And you find help & support at the following services & organisations:
 
 <div class="narrow-side-column" style="margin-bottom: 2rem;"> </div>
 
-<div class="narrow-side-column">
+{% horizontalCard(
+	image="/young-pavees-logo.png",
+	color="purple",
+	linkTitle="Go to Mind Your Nuck",
+	linkTarget="https://youngpavees.ie/being-lgbtq/"
+) %}
+Mind Your Nuck is a website developed with Young Travellers and **offers advice for parents and on LGBTI+ topics**.
 
-Or find support at BelongTo, the national organisation supporting LGBTI+ young people.
-   
-<div><a class="button button--blue" href="https://www.belongto.org/parents/">Go to BelongTo</a></div>
-</div>
+They have a page on advice for supporting young Travellers and a specific page for LGBTI+ topics, make sure to look at both.
+{% end %}
+
+{% horizontalCard(
+	image="/belongto-logo-square.png",
+	color="purple",
+	linkTitle="Go to BelongTo",
+	linkTarget="https://www.belongto.org/parents/"
+) %}
+BelongTo, the national LGBTQI+ Youth Service **regularly talks to parents and carers** who have just been told by their child that they are lesbian, gay, bisexual, transgender or intersex (LGBTI+). 
+
+They **offer guides, advice and answer common questions**.
+{% end %}
+
+{% horizontalCard(
+	image="/transgender-support-square.png",
+	color="purple",
+	linkTitle="Go to Trans Support Line",
+	linkTarget="https://lgbt.ie/lgbt-helpline-opening-hours/"
+) %}
+LGBT Ireland & the Transgender Equality Network Ireland (TENI)  offer a **Transgender Family Support Line** on Sunday Evenings and Tuesday Mornings.
+
+Call **01 907 3703**.
+{% end %}
