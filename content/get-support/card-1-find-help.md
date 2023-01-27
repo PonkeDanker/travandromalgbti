@@ -89,6 +89,17 @@ Exchange House Ireland's National Mental Health Service offers counselling servi
 Get in touch with Exchange House Ireland to **get more information**. Call **01 872 1118**.
 {% end %}
 
+{% horizontalCard(
+	image="/jigsaw-logo.png",
+	color="green",
+	linkTitle="Go to Jigsaw",
+	linkTarget="https://jigsaw.ie/get-support/"
+) %}
+Jigsaw offers expert mental health advice and support, online and in person, **to young people across Ireland**, aged 12 - 25 years-old.
+
+They offer one on one online chats, group chats and face-to-face services.
+{% end %}
+
 ##### Legal Advice
 
 Or if you seek legal advice, have a look here:
@@ -137,4 +148,63 @@ Call **01 872 1094** to learn more.
 Drugs.ie offering Drug and Alcohol Information and Support and provide the **HSE Drug and Alcohol Helpline**.
 
 Call **01800 459 459**.
+{% end %}
+
+##### For Young People
+
+{% horizontalCard(
+	image="/young-pavees-logo.png",
+	color="orange",
+	linkTitle="Go to Mind Your Nuck",
+	linkTarget="https://youngpavees.ie/being-lgbtq/"
+) %}
+Mind Your Nuck is a website developed by Pavee Point **with Young Travellers for Young Travellers** and is full of information for Young Pavees. 
+
+They have a page with useful information and encouraging advice **for LGBTI+ Traveller**. Make sure to check them out!
+{% end %}
+
+{% horizontalCard(
+	image="/belongto-logo-square.png",
+	color="orange",
+	linkTitle="Go to BelongTo",
+	linkTarget="https://www.belongto.org/youngpeople/"
+) %}
+Growing up LGBTI+ is not always easy. Belong to offers supports **tailored to Young LGBTI+ People's needs**.
+
+You can call them at 01 670 6223. They also offer Youth Groups throughout Ireland.
+{% end %}
+
+##### For Parents
+
+{% horizontalCard(
+	image="/young-pavees-logo.png",
+	color="yellow",
+	linkTitle="Go to Mind Your Nuck",
+	linkTarget="https://youngpavees.ie/being-lgbtq/"
+) %}
+Mind Your Nuck is a website developed with Young Travellers and **offers advice for parents and on LGBTI+ topics**.
+
+They have a page on advice for supporting young Travellers and a specific page for LGBTI+ topics, make sure to look at both.
+{% end %}
+
+{% horizontalCard(
+	image="/belongto-logo-square.png",
+	color="yellow",
+	linkTitle="Go to BelongTo",
+	linkTarget="https://www.belongto.org/parents/"
+) %}
+BelongTo, the national LGBTQI+ Youth Service **regularly talks to parents and carers** who have just been told by their child that they are lesbian, gay, bisexual, transgender or intersex (LGBTI+). 
+
+They **offer guides, advice and answer common questions**.
+{% end %}
+
+{% horizontalCard(
+	image="/transgender-support-square.png",
+	color="yellow",
+	linkTitle="Go to Trans Support Line",
+	linkTarget="https://lgbt.ie/lgbt-helpline-opening-hours/"
+) %}
+LGBT Ireland & the Transgender Equality Network Ireland (TENI)  offer a **Transgender Family Support Line** on Sunday Evenings and Tuesday Mornings.
+
+Call **01 907 3703**.
 {% end %}
