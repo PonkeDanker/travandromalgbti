@@ -103,3 +103,38 @@ FLAC (Free Legal Advice Centres) established a free LGBTQI+ legal clinic, Travel
 
 Make an **appointment** by **calling 01 906 1010** and staff members will direct you to the service you need, mention that you seek LGBTI+ Traveller & Roma specific service. 
 {% end %}
+
+##### Addiction Services
+
+{% horizontalCard(
+	image="/pavee-point-logo.png",
+	color="red",
+	linkTitle="Go to Pavee Point",
+	linkTarget="https://www.paveepoint.ie/project/drug-and-alcohol/"
+) %}
+Pavee Point offers a **Drug and Alcohol Programme** with two dedicated staff members, who offer non-judgmental support & signposting to LGBTI+ Travellers and Roma. 
+
+Call **01 878 0255 128** to learn more and contact the staff. 
+{% end %}
+
+{% horizontalCard(
+	image="/exchangehouse-logo-square.png",
+	color="red",
+	linkTitle="Go to Exchange House Ireland",
+	linkTarget="https://www.exchangehouse.ie/services_familysupport_addictionservice.php"
+) %}
+Exchange House Ireland offers an **Addiction Service** with  dedicated staff , who offer non-judgmental support & individual counselling to LGBTI+ Travellers. They also offer  Alcoholics Anonymous (AA) meetings and you can be sure that staff will welcome you as LGBTI+ Traveller. 
+
+Call **01 872 1094** to learn more.
+{% end %}
+
+{% horizontalCard(
+	image="/drugs-ie-logo.png",
+	color="red",
+	linkTitle="Go to Drugs.ie",
+	linkTarget="https://www.drugs.ie/"
+) %}
+Drugs.ie offering Drug and Alcohol Information and Support and provide the **HSE Drug and Alcohol Helpline**.
+
+Call **01800 459 459**.
+{% end %}
