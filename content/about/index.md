@@ -4,7 +4,7 @@ title = "About Us"
 
 {{ image(path="/title-image-about-page.png" )}}
 
-[Go back](/home)
+[Go back](/)
 
 # About us
 
