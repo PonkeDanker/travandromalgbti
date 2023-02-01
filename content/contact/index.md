@@ -4,7 +4,7 @@ title = "Contact Us"
 
 {{ image(path="/title-image-contact.png" )}}
 
-[Go back](/home)
+[Go back](/)
 
 # Call us
 

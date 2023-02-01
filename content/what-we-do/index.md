@@ -4,7 +4,7 @@ title = "What We Do"
 
 {{ image(path="/title-image-what-we-do-page.png" )}}
 
-[Go back](/home)
+[Go back](/)
 
 # What We Do 
 
