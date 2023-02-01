@@ -7,7 +7,7 @@
 .menu-page-header__title {
   margin-left: 2rem;
   font-size: var(--step-4);
-	line-height: 1;
+  line-height: 1;
 }
 
 .menu-page__nav {
@@ -31,8 +31,14 @@
   }
 }
 
-.menu-page__nav li:nth-child(3) a{
+.menu-page__nav li:nth-child(3) a {
   background-color: var(--accent-color);
   color: var(--white-color);
   border-radius: 6px;
+  border: 2px solid var(--accent-color);
+  &:hover {
+    color: var(--accent-color);
+    background-color: var(--white-color);
+    border-color: var(--accent-color);
+  }
 }

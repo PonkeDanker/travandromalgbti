@@ -43,6 +43,12 @@
   background-color: var(--accent-color);
   color: var(--white-color);
   border-radius: 6px;
+  border: 2px solid var(--accent-color);
+  &:hover {
+    color: var(--accent-color);
+    background-color: var(--white-color);
+    border-color: var(--accent-color);
+  }
 }
 
 @media screen and (min-width: 72ch) {
