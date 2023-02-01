@@ -4,6 +4,7 @@
     display: grid;
 		grid-template-columns: 1fr auto;
 		gap: 2rem;
+    align-items: center;
   }
   .narrow-side-column__side {
     width: 100%;
