@@ -1,5 +1,9 @@
 +++
 title = "Dublin Pride 2023"
+[extra]
+location = "dublin"
+image = "/dublin-pride-1-square.jpg"
+summary = "Dublin Pride parade will be on 24th June 2023. SAVE THE DATE."
 +++
 
 [Go back](/what-we-do/card-3-prides)
