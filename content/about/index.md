@@ -54,13 +54,11 @@ If you are an individual not affiliated with the LGBTI+ Traveller & Roma communi
 <div><a class="button button--blue" href="/what-we-do">Find out more</a></div>
 </div>
 
+<div style="text-align:center">
+
 # Meet our Key Worker
 
-<div class="narrow-side-column" style="margin-bottom: 1rem;">
-
-<div>
 We have a dedicated Community Development Key Worker delivering signposting, support and coordinating our outreach and advocacy & policy work.
-
 
 Ponke Danker (she/her)
 
@@ -68,15 +66,10 @@ Ponke Danker (she/her)
 
 **Email**: info@travandromalgbti.ie
 
-
-</div>
-<div>
-
 {{ image(path="/ponke.JPG", width=320)}}
 
 <a class="button button--red" href="/contact">Contact Ponke</a>
 
-</div>
 </div>
 
 <div class="color-box color-box--yellow">
