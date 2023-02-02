@@ -54,7 +54,7 @@ If you are an individual not affiliated with the LGBTI+ Traveller & Roma communi
 <div><a class="button button--blue" href="/what-we-do">Find out more</a></div>
 </div>
 
-<div style="text-align:center">
+<div class="center-aligned">
 
 # Meet our Key Worker
 
