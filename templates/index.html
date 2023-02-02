@@ -51,10 +51,11 @@
   {% set news = get_section(path="news/_index.md") %}
   <ul class="card-list">
     {% for post in news.pages | slice(end=3)%}
+      {% set text = post.extra.summary | markdown | safe %}
       {{ macros::card(
         image=post.extra.image,
         title=post.title,
-        text=post.extra.summary,
+        text=text,
         linkTitle="Read More",
         linkTarget=post.permalink,
         color="blue"

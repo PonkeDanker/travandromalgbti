@@ -1,7 +1,7 @@
-<div>
+<div class="gallery">
 {% for asset in page.assets -%}
   {%- if asset is matching("[.](jpg|png)$") -%}
-    {% set image = resize_image(path=asset, width=240, height=180) %}
+    {% set image = resize_image(path=asset, width=210, height=210, op='fill') %}
     <a href="{{ get_url(path=asset) }}" target="_blank">
       <img src="{{ image.url }}" />
     </a>

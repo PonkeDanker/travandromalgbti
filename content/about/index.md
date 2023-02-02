@@ -4,7 +4,7 @@ title = "About Us"
 
 {{ image(path="/title-image-about-page.png" )}}
 
-[Go back](/home)
+[Go back](/)
 
 # About us
 
@@ -56,7 +56,11 @@ If you are an individual not affiliated with the LGBTI+ Traveller & Roma communi
 
 # Meet our Key Worker
 
+<div class="narrow-side-column" style="margin-bottom: 1rem;">
+
+<div>
 We have a dedicated Community Development Key Worker delivering signposting, support and coordinating our outreach and advocacy & policy work.
+
 
 Ponke Danker (she/her)
 
@@ -64,14 +68,16 @@ Ponke Danker (she/her)
 
 **Email**: info@travandromalgbti.ie
 
+
+</div>
+<div>
+
 {{ image(path="/ponke.JPG", width=320)}}
 
-<div class="narrow-side-column" style="margin-bottom: 1rem;"> </div>
+<a class="button button--red" href="/contact">Contact Ponke</a>
 
-<div><a class="button button--red" href="/contact">Contact Ponke</a></div>
 </div>
-
-<div class="narrow-side-column" style="margin-bottom: 3rem;"> </div>
+</div>
 
 <div class="color-box color-box--yellow">
 

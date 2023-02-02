@@ -5,6 +5,7 @@
   @media screen and (min-width: 72ch) {
     margin-bottom: 4rem;
   }
+  height: 80px;
 }
 
 .page-header nav ul {
@@ -34,6 +35,10 @@
   display: none;
 }
 
+.page-header__nav a {
+  padding: 0.5rem;
+}
+
 .page-header__nav--wide a {
   padding: 0.5rem;
 }
@@ -42,6 +47,12 @@
   background-color: var(--accent-color);
   color: var(--white-color);
   border-radius: 6px;
+  border: 2px solid var(--accent-color);
+  &:hover {
+    color: var(--accent-color);
+    background-color: var(--white-color);
+    border-color: var(--accent-color);
+  }
 }
 
 @media screen and (min-width: 72ch) {

@@ -4,7 +4,7 @@ title = "Get Information and Support"
 
 {{ image(path="/you-are-not-alone.gif")}}
 
-[Go back](/templates/index.html)
+[Go back](/)
 
 # Get Information & Support
 

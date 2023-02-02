@@ -7,6 +7,7 @@
   &:link,
   &:visited {
     color: var(--button-text-color);
+    text-decoration: none;
     &:hover,
     &:focus,
     &:active {
