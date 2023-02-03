@@ -6,25 +6,34 @@ title = "Contact Us"
 
 [Go back](/)
 
-# Call us
-
-**Office**: +353 1 524 0178
-
-**Mobile**: +353 87 155 8832
-
 # Email us
 
 <div class="narrow-side-column">
 
-**Email**: info@travandromalgbti.ie
+##### info@travandromalgbti.ie
 
 <div><a class="button button--yellow" href="/mailto:info@travandromalgbti.ie">Email</a></div>
 </div>
 
-# Meet our Key Worker
+<div class="narrow-side-column" style="margin-bottom: 3rem;"> </div>
 
-We have a dedicated Community Development Key Worker delivering signposting, support and coordinating our outreach and advocacy & policy work
+<div class="color-box color-box--blue">
 
-Ponke Danker (she/her)
+# Find support
 
-{{ image(path="ponke.JPG", width=320)}}
+<div class="center-aligned">
+
+{{ image(path="/lgbt-helpline.jpg", width=300 )}}
+
+</div>
+
+<div class="narrow-side-column" style="margin-bottom: 2rem;"> </div>
+
+<div class="narrow-side-column">
+
+For more support see:
+
+<div><a class="button button--white" href="/get-support/card-1-find-help/">Find Help & Support</a></div>
+</div>
+
+</div>

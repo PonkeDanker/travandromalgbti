@@ -56,19 +56,15 @@ If you are an individual not affiliated with the LGBTI+ Traveller & Roma communi
 
 <div class="center-aligned">
 
-# Meet our Key Worker
+# Saying Good Bye to our Key Worker
 
-We have a dedicated Community Development Key Worker delivering signposting, support and coordinating our outreach and advocacy & policy work.
+Unfortunately, for the moment we will no longer have a Key Worker working for the National Action Group for LGBTI+ Traveller & Roma Rights, but we are determined to re-install such a position as soon as possible and we will keep you updated. 
 
-Ponke Danker (she/her)
-
-**Phone**: 01 524 0178 / 087 155 8832
+In the meantime, you can contact us via email.
 
 **Email**: info@travandromalgbti.ie
 
-{{ image(path="/ponke.JPG", width=320)}}
-
-<a class="button button--red" href="/contact">Contact Ponke</a>
+<a class="button button--red" href="/mailto:info@travandromalgbti.ie">Email</a>
 
 </div>
 

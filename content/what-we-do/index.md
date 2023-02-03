@@ -32,7 +32,7 @@ We provide information, sign-posting and support to LGBTI+ Travellers & Roma, th
 	image="report-picture-square.jpeg",
 	title="Research",
 	linkTitle="Find out more",
-	linkTarget="/get-support/card-5-research"
+	linkTarget="/get-support/card-6-research"
 	color="orange"
 ) %}
 We undertake research with the goal to unveil the experiences of LGBTI+ Travellers and Roma, with the aom of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.
