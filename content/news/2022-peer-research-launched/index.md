@@ -14,7 +14,7 @@ The IHERC funded peer-to-peer research looks at the lived experience of LGBTI+ T
 
 You can learn more about the research here:
 
-<a class="button button--green" href="/get-support/card-5-research)=">Learn more</a>
+<a class="button button--green" href="/get-support/card-6-research)=">Learn more</a>
 
 </div>
 
